@@ -11,7 +11,7 @@
       <File FileName="002-Stack/Node.cs" Line="9" Column="16" />
       <File FileName="001-List/SequenceList.cs" Line="18" Column="56" />
       <File FileName="002-Stack/SequenceStack.cs" Line="45" Column="25" />
-      <File FileName="007-QuickSort/Program.cs" Line="25" Column="21" />
+      <File FileName="007-QuickSort/Program.cs" Line="34" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
