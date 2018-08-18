@@ -1,0 +1,6 @@
+/Users/suzuka/Desktop/SataStructureStudy/SataStructureStudy/bin/Debug/SataStructureStudy.exe
+/Users/suzuka/Desktop/SataStructureStudy/SataStructureStudy/bin/Debug/SataStructureStudy.pdb
+/Users/suzuka/Desktop/SataStructureStudy/SataStructureStudy/obj/x86/Debug/DataStructureStudy.csprojResolveAssemblyReference.cache
+/Users/suzuka/Desktop/SataStructureStudy/SataStructureStudy/obj/x86/Debug/DataStructureStudy.csproj.CoreCompileInputs.cache
+/Users/suzuka/Desktop/SataStructureStudy/SataStructureStudy/obj/x86/Debug/SataStructureStudy.exe
+/Users/suzuka/Desktop/SataStructureStudy/SataStructureStudy/obj/x86/Debug/SataStructureStudy.pdb

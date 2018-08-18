@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6526BC74-E4F8-48AD-83FE-F74B987A102A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SataStructureStudy/SequenceList.cs">
+    <Files>
+      <File FileName="SataStructureStudy/Program.cs" Line="10" Column="37" />
+      <File FileName="SataStructureStudy/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="SataStructureStudy/IMyLsit.cs" Line="14" Column="31" />
+      <File FileName="SataStructureStudy/SequenceList.cs" Line="4" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SataStructureStudy PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/suzuka/Desktop/SataStructureStudy/002-Stack/bin/Debug/002-Stack.exe
+/Users/suzuka/Desktop/SataStructureStudy/002-Stack/bin/Debug/002-Stack.pdb
+/Users/suzuka/Desktop/SataStructureStudy/002-Stack/obj/x86/Debug/002-Stack.csproj.CoreCompileInputs.cache
+/Users/suzuka/Desktop/SataStructureStudy/002-Stack/obj/x86/Debug/002-Stack.exe
+/Users/suzuka/Desktop/SataStructureStudy/002-Stack/obj/x86/Debug/002-Stack.pdb
+/Users/suzuka/Desktop/SataStructureStudy/002-Stack/obj/x86/Debug/002-Stack.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+/Users/suzuka/Desktop/DataStructureStudy/007-QuickSort/bin/Debug/007-QuickSort.exe
+/Users/suzuka/Desktop/DataStructureStudy/007-QuickSort/bin/Debug/007-QuickSort.pdb
+/Users/suzuka/Desktop/DataStructureStudy/007-QuickSort/obj/x86/Debug/007-QuickSort.csproj.CoreCompileInputs.cache
+/Users/suzuka/Desktop/DataStructureStudy/007-QuickSort/obj/x86/Debug/007-QuickSort.exe
+/Users/suzuka/Desktop/DataStructureStudy/007-QuickSort/obj/x86/Debug/007-QuickSort.pdb

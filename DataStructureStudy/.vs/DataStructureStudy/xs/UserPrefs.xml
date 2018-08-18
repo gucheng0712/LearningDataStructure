@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BE08A10E-EF27-47ED-8CBF-6D9515803E62}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="007-QuickSort/Program.cs">
+    <Files>
+      <File FileName="004-String/Program.cs" Line="27" Column="51" />
+      <File FileName="004-String/MyString.cs" Line="142" Column="5" />
+      <File FileName="005-InsertSort/Program.cs" Line="19" Column="34" />
+      <File FileName="006-SelectSort/Program.cs" Line="17" Column="17" />
+      <File FileName="002-Stack/Program.cs" Line="1" Column="1" />
+      <File FileName="002-Stack/IStack.cs" Line="1" Column="1" />
+      <File FileName="002-Stack/LinkedStack.cs" Line="1" Column="1" />
+      <File FileName="002-Stack/Node.cs" Line="9" Column="16" />
+      <File FileName="001-List/SequenceList.cs" Line="18" Column="56" />
+      <File FileName="002-Stack/SequenceStack.cs" Line="45" Column="25" />
+      <File FileName="007-QuickSort/Program.cs" Line="25" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.005-InsertSort FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.006-SelectSort FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.004-String PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.007-QuickSort PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.002-Stack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.003-Queue PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

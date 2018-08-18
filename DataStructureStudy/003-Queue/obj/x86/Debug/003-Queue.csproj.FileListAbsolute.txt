@@ -1,0 +1,6 @@
+/Users/suzuka/Desktop/SataStructureStudy/003-Queue/bin/Debug/003-Queue.exe
+/Users/suzuka/Desktop/SataStructureStudy/003-Queue/bin/Debug/003-Queue.pdb
+/Users/suzuka/Desktop/SataStructureStudy/003-Queue/obj/x86/Debug/003-Queue.csproj.CoreCompileInputs.cache
+/Users/suzuka/Desktop/SataStructureStudy/003-Queue/obj/x86/Debug/003-Queue.exe
+/Users/suzuka/Desktop/SataStructureStudy/003-Queue/obj/x86/Debug/003-Queue.pdb
+/Users/suzuka/Desktop/SataStructureStudy/003-Queue/obj/x86/Debug/003-Queue.csprojResolveAssemblyReference.cache

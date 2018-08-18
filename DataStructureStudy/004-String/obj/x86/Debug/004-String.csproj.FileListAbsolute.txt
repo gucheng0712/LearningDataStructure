@@ -1,0 +1,12 @@
+/Users/suzuka/Desktop/SataStructureStudy/004-String/bin/Debug/004-String.exe
+/Users/suzuka/Desktop/SataStructureStudy/004-String/bin/Debug/004-String.pdb
+/Users/suzuka/Desktop/SataStructureStudy/004-String/obj/x86/Debug/004-String.csprojResolveAssemblyReference.cache
+/Users/suzuka/Desktop/SataStructureStudy/004-String/obj/x86/Debug/004-String.csproj.CoreCompileInputs.cache
+/Users/suzuka/Desktop/SataStructureStudy/004-String/obj/x86/Debug/004-String.exe
+/Users/suzuka/Desktop/SataStructureStudy/004-String/obj/x86/Debug/004-String.pdb
+/Users/suzuka/Desktop/DataStructureStudy/004-String/bin/Debug/004-String.exe
+/Users/suzuka/Desktop/DataStructureStudy/004-String/bin/Debug/004-String.pdb
+/Users/suzuka/Desktop/DataStructureStudy/004-String/obj/x86/Debug/004-String.csprojResolveAssemblyReference.cache
+/Users/suzuka/Desktop/DataStructureStudy/004-String/obj/x86/Debug/004-String.csproj.CoreCompileInputs.cache
+/Users/suzuka/Desktop/DataStructureStudy/004-String/obj/x86/Debug/004-String.exe
+/Users/suzuka/Desktop/DataStructureStudy/004-String/obj/x86/Debug/004-String.pdb
