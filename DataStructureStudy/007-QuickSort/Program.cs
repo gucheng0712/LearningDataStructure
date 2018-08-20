@@ -14,7 +14,7 @@ namespace QuickSort
         {
             if (leftIndex < rightIndex)
             {
-                // 基准书(pivot) 如果比他小或者等于它的放在它左边,然后把比它大的放在它的右边
+                // 基准数(pivot) 如果比他小或者等于它的放在它左边,然后把比它大的放在它的右边
                 int x = dataArray[leftIndex];
 
                 //用来做循环的标志位

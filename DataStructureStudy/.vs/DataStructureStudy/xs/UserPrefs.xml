@@ -1,5 +1,5 @@
-﻿<Properties StartupConfiguration="{BE08A10E-EF27-47ED-8CBF-6D9515803E62}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="007-QuickSort/Program.cs">
+﻿<Properties StartupConfiguration="{0CA46F69-A13C-454F-A0EE-261D12C28D31}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammingQuestions/EncodeandDecodeURL.cs">
     <Files>
       <File FileName="004-String/Program.cs" Line="27" Column="51" />
       <File FileName="004-String/MyString.cs" Line="142" Column="5" />
@@ -11,7 +11,10 @@
       <File FileName="002-Stack/Node.cs" Line="9" Column="16" />
       <File FileName="001-List/SequenceList.cs" Line="18" Column="56" />
       <File FileName="002-Stack/SequenceStack.cs" Line="45" Column="25" />
-      <File FileName="007-QuickSort/Program.cs" Line="34" Column="15" />
+      <File FileName="007-QuickSort/Program.cs" Line="80" Column="1" />
+      <File FileName="ProgrammingQuestions/Program.cs" Line="28" Column="45" />
+      <File FileName="ProgrammingQuestions/MaxStack.cs" Line="23" Column="33" />
+      <File FileName="ProgrammingQuestions/EncodeandDecodeURL.cs" Line="6" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -21,8 +24,9 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.006-SelectSort FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProgrammingQuestions PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.004-String PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.007-QuickSort PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.007-QuickSort PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.002-Stack PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.003-Queue PreferredExecutionTarget="MonoDevelop.Default" />

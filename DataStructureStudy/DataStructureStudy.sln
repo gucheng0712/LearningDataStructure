@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006-SelectSort", "006-Selec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007-QuickSort", "007-QuickSort\007-QuickSort.csproj", "{BE08A10E-EF27-47ED-8CBF-6D9515803E62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingQuestions", "ProgrammingQuestions\ProgrammingQuestions.csproj", "{0CA46F69-A13C-454F-A0EE-261D12C28D31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -49,5 +51,9 @@ Global
 		{BE08A10E-EF27-47ED-8CBF-6D9515803E62}.Debug|x86.Build.0 = Debug|x86
 		{BE08A10E-EF27-47ED-8CBF-6D9515803E62}.Release|x86.ActiveCfg = Release|x86
 		{BE08A10E-EF27-47ED-8CBF-6D9515803E62}.Release|x86.Build.0 = Release|x86
+		{0CA46F69-A13C-454F-A0EE-261D12C28D31}.Debug|x86.ActiveCfg = Debug|x86
+		{0CA46F69-A13C-454F-A0EE-261D12C28D31}.Debug|x86.Build.0 = Debug|x86
+		{0CA46F69-A13C-454F-A0EE-261D12C28D31}.Release|x86.ActiveCfg = Release|x86
+		{0CA46F69-A13C-454F-A0EE-261D12C28D31}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

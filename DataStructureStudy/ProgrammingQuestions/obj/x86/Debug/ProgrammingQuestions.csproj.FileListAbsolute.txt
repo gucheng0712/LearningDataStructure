@@ -1,0 +1,5 @@
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/ProgrammingQuestions/bin/Debug/ProgrammingQuestions.exe
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/ProgrammingQuestions/bin/Debug/ProgrammingQuestions.pdb
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/ProgrammingQuestions/obj/x86/Debug/ProgrammingQuestions.csproj.CoreCompileInputs.cache
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/ProgrammingQuestions/obj/x86/Debug/ProgrammingQuestions.exe
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/ProgrammingQuestions/obj/x86/Debug/ProgrammingQuestions.pdb
