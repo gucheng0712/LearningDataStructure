@@ -1,20 +1,20 @@
 # LearningDataStructure
 
-##List
+## List
 
-##Stack
+## Stack
 
-##Queue
+## Queue
 
-##String
+## String
 
-##InsertSort
+## InsertSort
 
-##SelectSort
+## SelectSort
 
-##QuickSort
+## QuickSort
 
-#Programming Questions
-##MaxStack
+# Programming Questions
+## MaxStack
 
-##EncodingAndDecoding
+## EncodingAndDecoding
