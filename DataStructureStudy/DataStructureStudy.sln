@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007-QuickSort", "007-QuickS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingQuestions", "ProgrammingQuestions\ProgrammingQuestions.csproj", "{0CA46F69-A13C-454F-A0EE-261D12C28D31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008-MergeSort", "008-MergeSort\008-MergeSort.csproj", "{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,5 +57,9 @@ Global
 		{0CA46F69-A13C-454F-A0EE-261D12C28D31}.Debug|x86.Build.0 = Debug|x86
 		{0CA46F69-A13C-454F-A0EE-261D12C28D31}.Release|x86.ActiveCfg = Release|x86
 		{0CA46F69-A13C-454F-A0EE-261D12C28D31}.Release|x86.Build.0 = Release|x86
+		{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}.Debug|x86.ActiveCfg = Debug|x86
+		{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}.Debug|x86.Build.0 = Debug|x86
+		{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}.Release|x86.ActiveCfg = Release|x86
+		{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
