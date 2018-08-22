@@ -15,6 +15,8 @@
 
 ## QuickSort
 
+## MergeSort
+
 # Programming Questions
 ## MaxStack
     Design a max stack that supports push, pop, peek, peekMax and popMax.
