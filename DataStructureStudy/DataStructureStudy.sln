@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingQuestions", "Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008-MergeSort", "008-MergeSort\008-MergeSort.csproj", "{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009-FindLargeestSubArray_ViolentMethod", "009-FindLargeestSubArray_ViolentMethod\009-FindLargeestSubArray_ViolentMethod.csproj", "{2A932033-C058-4F5E-8E15-5A1D083CBBB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010-FindLargeestSubArray_DivideConquer", "010-FindLargeestSubArray_DivideConquer\010-FindLargeestSubArray_DivideConquer.csproj", "{0BCF86F0-95DE-4CC8-B053-4802D2A28017}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -61,5 +65,13 @@ Global
 		{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}.Debug|x86.Build.0 = Debug|x86
 		{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}.Release|x86.ActiveCfg = Release|x86
 		{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}.Release|x86.Build.0 = Release|x86
+		{2A932033-C058-4F5E-8E15-5A1D083CBBB8}.Debug|x86.ActiveCfg = Debug|x86
+		{2A932033-C058-4F5E-8E15-5A1D083CBBB8}.Debug|x86.Build.0 = Debug|x86
+		{2A932033-C058-4F5E-8E15-5A1D083CBBB8}.Release|x86.ActiveCfg = Release|x86
+		{2A932033-C058-4F5E-8E15-5A1D083CBBB8}.Release|x86.Build.0 = Release|x86
+		{0BCF86F0-95DE-4CC8-B053-4802D2A28017}.Debug|x86.ActiveCfg = Debug|x86
+		{0BCF86F0-95DE-4CC8-B053-4802D2A28017}.Debug|x86.Build.0 = Debug|x86
+		{0BCF86F0-95DE-4CC8-B053-4802D2A28017}.Release|x86.ActiveCfg = Release|x86
+		{0BCF86F0-95DE-4CC8-B053-4802D2A28017}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

@@ -1,8 +1,16 @@
-﻿<Properties StartupConfiguration="{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="007-QuickSort/Program.cs">
+﻿<Properties StartupConfiguration="{0BCF86F0-95DE-4CC8-B053-4802D2A28017}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="010-FindLargeestSubArray_DivideConquer/Program.cs">
     <Files>
-      <File FileName="008-MergeSort/Program.cs" Line="9" Column="47" />
+      <File FileName="008-MergeSort/Program.cs" Line="71" Column="28" />
       <File FileName="007-QuickSort/Program.cs" Line="80" Column="1" />
+      <File FileName="001-List/IMyList.cs" Line="1" Column="1" />
+      <File FileName="001-List/LinkedList.cs" Line="1" Column="1" />
+      <File FileName="001-List/SequenceList.cs" Line="28" Column="22" />
+      <File FileName="001-List/Program.cs" Line="1" Column="1" />
+      <File FileName="009-FindLargeestSubArray_ViolentMethod/Program.cs" Line="9" Column="111" />
+      <File FileName="010-FindLargeestSubArray_DivideConquer/Program.cs" Line="72" Column="31" />
+      <File FileName="ProgrammingQuestions/MaxStack.cs" Line="1" Column="1" />
+      <File FileName="ProgrammingQuestions/EncodeDecode.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -10,7 +18,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.008-MergeSort PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.008-MergeSort PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.006-SelectSort FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ProgrammingQuestions PreferredExecutionTarget="MonoDevelop.Default" />
@@ -18,5 +26,7 @@
   <MonoDevelop.Ide.ItemProperties.007-QuickSort PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.002-Stack PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.010-FindLargeestSubArray__DivideConquer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.009-FindLargeestSubArray__ViolentMethod PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.003-Queue PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
