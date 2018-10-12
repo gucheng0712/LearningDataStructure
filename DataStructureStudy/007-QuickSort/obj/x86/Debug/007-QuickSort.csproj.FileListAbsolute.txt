@@ -8,3 +8,4 @@
 /Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/007-QuickSort/obj/x86/Debug/007-QuickSort.csproj.CoreCompileInputs.cache
 /Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/007-QuickSort/obj/x86/Debug/007-QuickSort.exe
 /Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/007-QuickSort/obj/x86/Debug/007-QuickSort.pdb
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/007-QuickSort/obj/x86/Debug/007-QuickSort.csprojAssemblyReference.cache

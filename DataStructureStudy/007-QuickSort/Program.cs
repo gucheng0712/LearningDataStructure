@@ -62,7 +62,7 @@ namespace QuickSort
                 //接着使用(递归)recursion
                 // i 已经确定下来不会变,所以不用计算
                 QuickSort(dataArray, leftIndex, i - 1);
-                QuickSort(dataArray, i + 1, leftIndex);
+                QuickSort(dataArray, i + 1, rightIndex);
             }
         }
 
