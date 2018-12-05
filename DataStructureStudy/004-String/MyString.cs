@@ -5,15 +5,9 @@ namespace String
     {
         private char[] data; // 用来存放字符串中的字符
 
-        public char this[int index] // 根据索引访问字符的索引器
-        {
-            get { return data[index]; }
-        }
+        public char this[int index] => data[index];// 根据索引访问字符的索引器
 
-        public MyString()
-        {
-
-        }
+        public MyString() { }
 
         public MyString(char[] array)
         {
@@ -33,11 +27,7 @@ namespace String
             }
         }
 
-
-        public int GetLength()
-        {
-            return data.Length;
-        }
+        public int GetLength() { return data.Length; }
 
         // 如果两个字符串一样,返回0
         // 如果当前字符串小于s, 返回-1
@@ -47,7 +37,9 @@ namespace String
         {
             // 取的两个字符串中长度更小的字符串的长度
             int len = this.GetLength() < s.GetLength() ? this.GetLength() : s.GetLength();
+
             int index = -1; // 存储不相等的字符的索引位置
+
             for (int i = 0; i < len; i++)
             {
                 if (this[i] != s[i])

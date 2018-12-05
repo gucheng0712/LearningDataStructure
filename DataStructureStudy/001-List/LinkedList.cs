@@ -1,17 +1,34 @@
 ﻿using System;
 namespace List
 {
+    /// <summary>
+    /// Linked list 是线性表中的另外一种存储结构-- Linked Storage, 这样的表叫 Linked List
+    /// Linked List 是由节点组成的, 不要求逻辑上响铃的元素在物理存储位置上也相邻, 是无序的
+    /// 
+    /// 优点: 在插入和删除元素时不需要移动数据元素
+    /// 缺点: 不便于查找, 因为是无序的, 不能通过 Index 来查找.
+    /// </summary>
     public class LinkedList<T> : IMyList<T>
     {
-        private Node<T> head;
+        Node<T> head;
 
-        public LinkedList()
-        {
-            head = null;
-        }
+        public LinkedList() { head = null; }
 
+        // 通过Index得到元素
         public T this[int index] => GetElement(index);
 
+        // 通过Index得到元素
+        public T GetElement(int index)
+        {
+            Node<T> temp = head;
+            for (int i = 1; i <= index; i++)
+            {
+                temp = temp.Next;
+            }
+            return temp.Data;
+        }
+
+        //添加一个元素
         public void Add(T item)
         {
             Node<T> newNode = new Node<T>(item); // 根据新的数据创建一个新的节点
@@ -35,19 +52,18 @@ namespace List
                     }
                 }
                 temp.Next = newNode;// 把新节点加到末尾
-
             }
-
         }
 
-        public void Clear()
-        {
-            head = null;
-        }
+        // 清空 Linked List
+        public void Clear() { head = null; }
 
+        // 删除指定索引的元素
         public T Delete(int index) // 和插入原理类似
         {
             T data = default(T);
+
+            // 如果 要插入的index 是 0, 那么需要返回的数据就是 Node 的 头结点, 然后头节点就是头节点的Next节点
             if (index == 0)
             {
                 data = head.Data;
@@ -69,19 +85,11 @@ namespace List
             return data;
         }
 
-        public T GetElement(int index)
-        {
-            Node<T> temp = head;
-            for (int i = 1; i <= index; i++)
-            {
-                temp = temp.Next;
-            }
-            return temp.Data;
-        }
-
+        // 得到LinkedList 的长度
         public int GetLength()
         {
-            if (head == null) return 0;
+            if (head == null) return 0; // 如果头结点是Null, 那直接返回长度为0
+
             Node<T> temp = head;
             int count = 1;
             while (true)
@@ -99,10 +107,11 @@ namespace List
             return count;
         }
 
+        // 插入元素到指定的Index
         public void Insert(T item, int index)
         {
             Node<T> newNode = new Node<T>(item);
-            if (index == 0) // 如果插入到头节点
+            if (index == 0) // 如果插入到头节点,这个newNode 就是头结点, 把头结点向后移
             {
                 newNode.Next = head;
                 head = newNode;
@@ -117,18 +126,17 @@ namespace List
                 Node<T> curNode = temp.Next; // 然后当前index的node 则是temp node 的下一个node
                 Node<T> preNode = temp; // 上一个index 的node,则是temp node
 
-                // 上一个node的下一个node就是要新插入的newNode
+                // 把上一个 Node 的指针指向 newNode
                 preNode.Next = newNode;
-                // 新插入的node的下一个node 就是当前索引的Node
+                // 把 newNode 的指针指向目前的 Node
                 newNode.Next = curNode;
             }
         }
 
-        public bool IsEmpty()
-        {
-            return head == null;
-        }
+        // 判断是否为空
+        public bool IsEmpty() { return head == null; }
 
+        // 通过值得到索引
         public int Location(T value)
         {
             if (head == null) //如果头结点为空

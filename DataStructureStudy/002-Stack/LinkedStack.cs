@@ -9,15 +9,11 @@ namespace Stack
 
         public int Count => count;
 
-        public int GetLength()
-        {
-            return count;
-        }
+        public int GetLength() { return count; }
 
-        public bool IsEmpty()
-        {
-            return count == 0;
-        }
+        public bool IsEmpty() { return count == 0; }
+
+        public T Peek() { return top.Data; }
 
         public void Clear()
         {
@@ -32,7 +28,6 @@ namespace Stack
             newNode.Next = top;
             top = newNode;
             count++;
-
         }
 
         public T Pop()
@@ -44,9 +39,5 @@ namespace Stack
             return data;
         }
 
-        public T Peek()
-        {
-            return top.Data;
-        }
     }
 }

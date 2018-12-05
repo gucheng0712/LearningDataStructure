@@ -4,31 +4,29 @@ namespace List
 {
     public class Node<T> //  单链表的节点
     {
-        private T data;
-        private Node<T> next; // 用于指向下一个元素
-        public T Data { get { return data; } set { data = value; } }
-        public Node<T> Next { get { return next; } set { next = value; } }
+        public T Data { get; set; } // 存储数据
+        public Node<T> Next { get; set; } // 指针, 永爱指向下一个元素
 
 
         public Node()
         {
-            data = default(T);
-            next = null;
+            Data = default(T);
+            Next = null;
         }
 
         public Node(T value)
         {
-            data = value;
-            next = null;
+            Data = value;
+            Next = null;
         }
-        public Node(Node<T> _next)
-        {
-            next = _next;
-        }
+
+        public Node(Node<T> _next) { Next = _next; }
+
+
         public Node(T value, Node<T> _next)
         {
-            data = value;
-            next = _next;
+            Data = value;
+            Next = _next;
         }
     }
 }
