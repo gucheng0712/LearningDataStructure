@@ -1,24 +1,23 @@
 # LearningDataStructure
 
-## List
-[Go](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/001-List)
+## [List](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/001-List)
 
 ## [Stack](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/002-Stack)
 
-## Queue
+## [Queue]
 
-## String
+## [String]
 
-## InsertSort
+## [InsertSort]
 
-## SelectSort
+## [SelectSort]
 
-## QuickSort
+## [QuickSort]
 
-## MergeSort
+## [MergeSort]
 
 # Programming Questions
-## MaxStack
+## [MaxStack]
     
 Question: Design a max stack that supports push, pop, peek, peekMax and popMax.
 
@@ -28,6 +27,6 @@ Question: Design a max stack that supports push, pop, peek, peekMax and popMax.
 4. peekMax() -- Retrieve the maximum element in the stack.
 5. popMax() -- Retrieve the maximum element in the stack, and remove it. If you find more than one maximum elements, only remove the top-most one.
 
-## EncodingAndDecoding
+## [EncodingAndDecoding]
 
 Question: Design the encode and decode methods. There is no restriction on how your encode/decode algorithm should work. You just need to ensure that a string can be encoded to a a code and the code can be decoded to the original URL.
