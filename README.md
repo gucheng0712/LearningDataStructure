@@ -3,7 +3,7 @@
 ## List
 [Go](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/001-List)
 
-## Stack (https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/002-Stack)
+## [Stack](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/002-Stack)
 
 ## Queue
 
