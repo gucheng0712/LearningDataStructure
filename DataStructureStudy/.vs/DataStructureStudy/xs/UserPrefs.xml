@@ -2,13 +2,13 @@
   <MonoDevelop.Ide.ItemProperties.004-String PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.005-InsertSort FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.009-FindLargestSubArray PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="008-MergeSort/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="009-FindLargestSubArray/DivideConquer.cs">
     <Files>
       <File FileName="009-FindLargestSubArray/Program.cs" Line="16" Column="49" />
       <File FileName="009-FindLargestSubArray/ViolentMethod.cs" Line="35" Column="25" />
-      <File FileName="009-FindLargestSubArray/DivideConquer.cs" Line="91" Column="10" />
+      <File FileName="009-FindLargestSubArray/DivideConquer.cs" Line="26" Column="10" />
       <File FileName="010-EncodeAndDecode/Program.cs" Line="32" Column="37" />
-      <File FileName="010-EncodeAndDecode/Base64.cs" Line="15" Column="16" />
+      <File FileName="010-EncodeAndDecode/Base64.cs" Line="17" Column="79" />
       <File FileName="010-EncodeAndDecode/GUID.cs" Line="20" Column="13" />
       <File FileName="011-MaxStack/Program.cs" Line="20" Column="52" />
       <File FileName="011-MaxStack/MaxStack.cs" Line="26" Column="3" />
