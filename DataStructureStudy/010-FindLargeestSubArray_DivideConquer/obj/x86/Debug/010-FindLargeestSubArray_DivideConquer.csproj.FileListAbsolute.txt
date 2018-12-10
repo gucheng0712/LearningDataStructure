@@ -1,5 +1,0 @@
-/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/010-FindLargeestSubArray_DivideConquer/bin/Debug/010-FindLargeestSubArray_DivideConquer.exe
-/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/010-FindLargeestSubArray_DivideConquer/bin/Debug/010-FindLargeestSubArray_DivideConquer.pdb
-/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/010-FindLargeestSubArray_DivideConquer/obj/x86/Debug/010-FindLargeestSubArray_DivideConquer.csproj.CoreCompileInputs.cache
-/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/010-FindLargeestSubArray_DivideConquer/obj/x86/Debug/010-FindLargeestSubArray_DivideConquer.exe
-/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/010-FindLargeestSubArray_DivideConquer/obj/x86/Debug/010-FindLargeestSubArray_DivideConquer.pdb

@@ -1,0 +1,5 @@
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/010-EncodeAndDecode/bin/Debug/010-EncodeAndDecode.exe
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/010-EncodeAndDecode/bin/Debug/010-EncodeAndDecode.pdb
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/010-EncodeAndDecode/obj/x86/Debug/010-EncodeAndDecode.csproj.CoreCompileInputs.cache
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/010-EncodeAndDecode/obj/x86/Debug/010-EncodeAndDecode.exe
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/010-EncodeAndDecode/obj/x86/Debug/010-EncodeAndDecode.pdb

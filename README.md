@@ -1,16 +1,36 @@
 # LearningDataStructure
 
 ## [List](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/001-List)
+The Structure of Sequence List and Linked List
 
 ## [Stack](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/002-Stack)
+The Structure of Sequence Stack and Linked Stack
 
-## [Queue]
 
-## [String]
+## [Queue](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/003-Queue)
+The Structure of Sequence Stack and Linked Stack
 
-## [InsertSort]
 
-## [SelectSort]
+## [String](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/004-String)
+The Structure of String Class
+
+## [InsertSort](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/005-InsertSort)
+Insert sort is a simple sorting algorithm. The principle is to scan the unsorted data from back to front in the sorted sequence, find the corresponding position and insert.
+In the process of backward scanning, the sorted elements need to be moved backward step by step repeatedly to provide insertion space for the latest elements.
+
+Time Complexity:
+    Average: O (n ^ 2)
+    Best: O(n)
+    Worst: O (n ^ 2)
+    
+## [SelectSort](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/006-SelectSort)
+Selection sort is a simple sorting algorithm.
+It works as follows:
+    First, find the smallest (large) element in the unsorted sequence, store it at the beginning of the sorted sequence, then continue to find the smallest (large) element from the remaining unsorted elements, and then put it at the end of the sorted sequence. and so on until all the elements are sorted.
+    
+Time Complexity:
+    O (n ^ 2)
+
 
 ## [QuickSort]
 

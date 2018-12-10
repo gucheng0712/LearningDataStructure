@@ -15,13 +15,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006-SelectSort", "006-Selec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007-QuickSort", "007-QuickSort\007-QuickSort.csproj", "{BE08A10E-EF27-47ED-8CBF-6D9515803E62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingQuestions", "ProgrammingQuestions\ProgrammingQuestions.csproj", "{0CA46F69-A13C-454F-A0EE-261D12C28D31}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008-MergeSort", "008-MergeSort\008-MergeSort.csproj", "{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009-FindLargeestSubArray_ViolentMethod", "009-FindLargeestSubArray_ViolentMethod\009-FindLargeestSubArray_ViolentMethod.csproj", "{2A932033-C058-4F5E-8E15-5A1D083CBBB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009-FindLargestSubArray", "009-FindLargestSubArray\009-FindLargestSubArray.csproj", "{F0A30A8B-3F74-4446-B410-49E9A81AB12D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010-FindLargeestSubArray_DivideConquer", "010-FindLargeestSubArray_DivideConquer\010-FindLargeestSubArray_DivideConquer.csproj", "{0BCF86F0-95DE-4CC8-B053-4802D2A28017}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010-EncodeAndDecode", "010-EncodeAndDecode\010-EncodeAndDecode.csproj", "{0F752591-669B-49E4-AA88-00D90A18F395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011-MaxStack", "011-MaxStack\011-MaxStack.csproj", "{610A965A-CFD7-442D-9293-0F3F95C9E3BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,21 +57,21 @@ Global
 		{BE08A10E-EF27-47ED-8CBF-6D9515803E62}.Debug|x86.Build.0 = Debug|x86
 		{BE08A10E-EF27-47ED-8CBF-6D9515803E62}.Release|x86.ActiveCfg = Release|x86
 		{BE08A10E-EF27-47ED-8CBF-6D9515803E62}.Release|x86.Build.0 = Release|x86
-		{0CA46F69-A13C-454F-A0EE-261D12C28D31}.Debug|x86.ActiveCfg = Debug|x86
-		{0CA46F69-A13C-454F-A0EE-261D12C28D31}.Debug|x86.Build.0 = Debug|x86
-		{0CA46F69-A13C-454F-A0EE-261D12C28D31}.Release|x86.ActiveCfg = Release|x86
-		{0CA46F69-A13C-454F-A0EE-261D12C28D31}.Release|x86.Build.0 = Release|x86
 		{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}.Debug|x86.ActiveCfg = Debug|x86
 		{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}.Debug|x86.Build.0 = Debug|x86
 		{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}.Release|x86.ActiveCfg = Release|x86
 		{9FE9FC80-7CE6-47EE-A2EF-2A644A4A85F1}.Release|x86.Build.0 = Release|x86
-		{2A932033-C058-4F5E-8E15-5A1D083CBBB8}.Debug|x86.ActiveCfg = Debug|x86
-		{2A932033-C058-4F5E-8E15-5A1D083CBBB8}.Debug|x86.Build.0 = Debug|x86
-		{2A932033-C058-4F5E-8E15-5A1D083CBBB8}.Release|x86.ActiveCfg = Release|x86
-		{2A932033-C058-4F5E-8E15-5A1D083CBBB8}.Release|x86.Build.0 = Release|x86
-		{0BCF86F0-95DE-4CC8-B053-4802D2A28017}.Debug|x86.ActiveCfg = Debug|x86
-		{0BCF86F0-95DE-4CC8-B053-4802D2A28017}.Debug|x86.Build.0 = Debug|x86
-		{0BCF86F0-95DE-4CC8-B053-4802D2A28017}.Release|x86.ActiveCfg = Release|x86
-		{0BCF86F0-95DE-4CC8-B053-4802D2A28017}.Release|x86.Build.0 = Release|x86
+		{F0A30A8B-3F74-4446-B410-49E9A81AB12D}.Debug|x86.ActiveCfg = Debug|x86
+		{F0A30A8B-3F74-4446-B410-49E9A81AB12D}.Debug|x86.Build.0 = Debug|x86
+		{F0A30A8B-3F74-4446-B410-49E9A81AB12D}.Release|x86.ActiveCfg = Release|x86
+		{F0A30A8B-3F74-4446-B410-49E9A81AB12D}.Release|x86.Build.0 = Release|x86
+		{0F752591-669B-49E4-AA88-00D90A18F395}.Debug|x86.ActiveCfg = Debug|x86
+		{0F752591-669B-49E4-AA88-00D90A18F395}.Debug|x86.Build.0 = Debug|x86
+		{0F752591-669B-49E4-AA88-00D90A18F395}.Release|x86.ActiveCfg = Release|x86
+		{0F752591-669B-49E4-AA88-00D90A18F395}.Release|x86.Build.0 = Release|x86
+		{610A965A-CFD7-442D-9293-0F3F95C9E3BF}.Debug|x86.ActiveCfg = Debug|x86
+		{610A965A-CFD7-442D-9293-0F3F95C9E3BF}.Debug|x86.Build.0 = Debug|x86
+		{610A965A-CFD7-442D-9293-0F3F95C9E3BF}.Release|x86.ActiveCfg = Release|x86
+		{610A965A-CFD7-442D-9293-0F3F95C9E3BF}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
