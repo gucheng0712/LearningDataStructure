@@ -19,9 +19,9 @@ Insert sort is a simple sorting algorithm. The principle is to scan the unsorted
 In the process of backward scanning, the sorted elements need to be moved backward step by step repeatedly to provide insertion space for the latest elements.
 
 Time Complexity:
-    *Average: O (n ^ 2)
-    *Best: O(n)
-    *Worst: O (n ^ 2)
+    * Average: O (n ^ 2)
+    * Best: O(n)
+    * Worst: O (n ^ 2)
     
 ## [SelectSort](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/006-SelectSort)
 Selection sort is a simple sorting algorithm.
