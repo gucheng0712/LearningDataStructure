@@ -89,7 +89,7 @@ Question: Design a max stack that supports push, pop, peek, peekMax and popMax.
 5. popMax() -- Retrieve the maximum element in the stack, and remove it. If you find more than one maximum elements, only remove the top-most one.
 
 
-## [Unique Morse Code Words]()
+## [Unique Morse Code Words](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/012-UniqueMorseCodeWords)
 
 International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows: "a" maps to ".-", "b" maps to "-...", "c" maps to "-.-.", and so on.
 
@@ -119,7 +119,7 @@ Note:
 
 
 
-## [UniqueEmailAddresses]()
+## [UniqueEmailAddresses](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/013-UniqueEmailAddresses)
 
 Every email consists of a local name and a domain name, separated by the @ sign. For example, in alice@leetcode.com, alice is the local name, and leetcode.com is the domain name. Besides lowercase letters, these emails may contain '.'s or '+'s.
 
