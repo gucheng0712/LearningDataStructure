@@ -87,3 +87,58 @@ Question: Design a max stack that supports push, pop, peek, peekMax and popMax.
 3. peek() -- Get the element on the top.
 4. peekMax() -- Retrieve the maximum element in the stack.
 5. popMax() -- Retrieve the maximum element in the stack, and remove it. If you find more than one maximum elements, only remove the top-most one.
+
+
+## [Unique Morse Code Words]()
+
+International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows: "a" maps to ".-", "b" maps to "-...", "c" maps to "-.-.", and so on.
+
+For convenience, the full table for the 26 letters of the English alphabet is given below:
+[".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",
+".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."]
+
+
+Now, given a list of words, each word can be written as a concatenation of the Morse code of each letter.  For example, "cba" can be written as "-.-..--...", (which is the concatenation "-.-." + "-..." + ".-").  We'll call such a concatenation, the transformation of a word. Return the number of different transformations among all words we have.
+
+Example:
+* Input: words = ["gin", "zen", "gig", "msg"]
+* Output: 2
+* Explanation: 
+* The transformation of each word is:
+1. "gin" -> "--...-."
+2. "zen" -> "--...-."
+3. "gig" -> "--...--."
+4. "msg" -> "--...--."
+
+There are 2 different transformations, "--...-." and "--...--.".
+
+Note:
+* The length of words will be at most 100.
+* Each words[i] will have length in range [1, 12].
+* words[i] will only consist of lowercase letters.
+
+
+
+## [UniqueEmailAddresses]()
+
+Every email consists of a local name and a domain name, separated by the @ sign. For example, in alice@leetcode.com, alice is the local name, and leetcode.com is the domain name. Besides lowercase letters, these emails may contain '.'s or '+'s.
+
+If you add periods ('.') between some characters in the local name part of an email address, mail sent there will be forwarded to the same address without dots in the local name.   For example, "alice.z@leetcode.com" and "alicez@leetcode.com" forward to the same email address.  (Note that this rule does not apply for domain names.)
+
+If you add a plus ('+') in the local name, everything after the first plus sign will be ignored. This allows certain emails to be filtered, for example m.y+name@email.com will be forwarded to my@email.com. (Again, this rule does not apply for domain names.)
+It is possible to use both of these rules at the same time.
+
+Given a list of emails, we send one email to each address in the list.  How many different addresses actually receive mails? 
+
+Example 1:
+
+* Input: ["test.email+alex@leetcode.com","test.e.mail+bob.cathy@leetcode.com","testemail+david@lee.tcode.com"]
+* Output: 2
+* Explanation: "testemail@leetcode.com" and "testemail@lee.tcode.com" actually receive mails
+
+
+Note:
+
+* 1 <= emails[i].length <= 100
+* 1 <= emails.length <= 100
+* Each emails[i] contains exactly one '@' character.

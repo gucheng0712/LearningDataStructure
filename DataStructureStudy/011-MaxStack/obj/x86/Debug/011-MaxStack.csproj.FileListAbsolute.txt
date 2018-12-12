@@ -3,3 +3,4 @@
 /Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/011-MaxStack/obj/x86/Debug/011-MaxStack.csproj.CoreCompileInputs.cache
 /Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/011-MaxStack/obj/x86/Debug/011-MaxStack.exe
 /Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/011-MaxStack/obj/x86/Debug/011-MaxStack.pdb
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/011-MaxStack/obj/x86/Debug/011-MaxStack.csprojAssemblyReference.cache
