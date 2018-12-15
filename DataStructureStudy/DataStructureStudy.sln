@@ -27,6 +27,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012-UniqueMorseCodeWords", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013-UniqueEmailAddresses", "013-UniqueEmailAddresses\013-UniqueEmailAddresses.csproj", "{C70B12A5-DAFC-45F1-9334-BDF7190A6B6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014-BinaryTree", "014-BinaryTree\014-BinaryTree.csproj", "{521368C5-CD5C-4503-B60D-096E81A97DAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015-HammingDistance", "015-HammingDistance\015-HammingDistance.csproj", "{8CC8E18F-BED4-4B2F-84A1-776708227F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016-RangeSumOfBST", "016-RangeSumOfBST\016-RangeSumOfBST.csproj", "{6CBD4039-CDF9-4CCD-8E95-14510A8CC0DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -85,5 +91,17 @@ Global
 		{C70B12A5-DAFC-45F1-9334-BDF7190A6B6D}.Debug|x86.Build.0 = Debug|x86
 		{C70B12A5-DAFC-45F1-9334-BDF7190A6B6D}.Release|x86.ActiveCfg = Release|x86
 		{C70B12A5-DAFC-45F1-9334-BDF7190A6B6D}.Release|x86.Build.0 = Release|x86
+		{521368C5-CD5C-4503-B60D-096E81A97DAE}.Debug|x86.ActiveCfg = Debug|x86
+		{521368C5-CD5C-4503-B60D-096E81A97DAE}.Debug|x86.Build.0 = Debug|x86
+		{521368C5-CD5C-4503-B60D-096E81A97DAE}.Release|x86.ActiveCfg = Release|x86
+		{521368C5-CD5C-4503-B60D-096E81A97DAE}.Release|x86.Build.0 = Release|x86
+		{8CC8E18F-BED4-4B2F-84A1-776708227F1B}.Debug|x86.ActiveCfg = Debug|x86
+		{8CC8E18F-BED4-4B2F-84A1-776708227F1B}.Debug|x86.Build.0 = Debug|x86
+		{8CC8E18F-BED4-4B2F-84A1-776708227F1B}.Release|x86.ActiveCfg = Release|x86
+		{8CC8E18F-BED4-4B2F-84A1-776708227F1B}.Release|x86.Build.0 = Release|x86
+		{6CBD4039-CDF9-4CCD-8E95-14510A8CC0DD}.Debug|x86.ActiveCfg = Debug|x86
+		{6CBD4039-CDF9-4CCD-8E95-14510A8CC0DD}.Debug|x86.Build.0 = Debug|x86
+		{6CBD4039-CDF9-4CCD-8E95-14510A8CC0DD}.Release|x86.ActiveCfg = Release|x86
+		{6CBD4039-CDF9-4CCD-8E95-14510A8CC0DD}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

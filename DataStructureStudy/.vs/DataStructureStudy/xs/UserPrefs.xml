@@ -1,10 +1,30 @@
-﻿<Properties StartupConfiguration="{C70B12A5-DAFC-45F1-9334-BDF7190A6B6D}|Default">
+﻿<Properties StartupConfiguration="{6CBD4039-CDF9-4CCD-8E95-14510A8CC0DD}|Default">
   <MonoDevelop.Ide.ItemProperties.004-String PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.005-InsertSort FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.012-UniqueMorseCodeWords FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.009-FindLargestSubArray PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataStructureStudy" expanded="True">
+            <Node name="014-BinaryTree" expanded="True" />
+            <Node name="016-RangeSumOfBST" expanded="True">
+              <Node name="Tree.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>root</Value>
+          <Value>Node</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.011-MaxStack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.014-BinaryTree PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.002-Stack PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.003-Queue PreferredExecutionTarget="MonoDevelop.Default" />
@@ -12,9 +32,11 @@
   <MonoDevelop.Ide.ItemProperties.007-QuickSort PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.013-UniqueEmailAddresses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.016-RangeSumOfBST PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.015-HammingDistance PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.008-MergeSort PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.001-List PreferredExecutionTarget="MonoDevelop.Default" />
