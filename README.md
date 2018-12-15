@@ -65,6 +65,27 @@ Time Complexity:
 * Worst: O (nlogn)
 
 
+## [BinaryTree](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/014-BinaryTree)
+A Binary Tree is a finite set of n nodes, which can be an empty set (called an empty binary tree), or a root node and a binary tree of two disjoint nodes, called the left subtree of the root node and the right subtree respectively.
+
+Binary tree traversal refers to starting from the root node, in some order to access all nodes in the binary tree, so that each node is accessed once.
+Include:
+1.  Preorder Traversal (前序遍历)      ( node - left - right ) 
+2.  Inorder Traversal (中序遍历)        ( left - node - right ) 
+3. PostOrder Traversal (后序遍历)    ( left - right - node ) 
+4. LevelOrder Traversal(存序遍历)    从树的第一层开始，从上到下逐层遍历，在同一层中，从左到右对结点 逐个访问输出.
+
+Binary sort tree, also known as binary search tree. It's either an empty tree, or a binary tree with the following properties.
+If its left subtree is not empty, the value of all nodes in the left subtree is less than the value of the root structure;
+If its right subtree is not empty, the value of all nodes on the right alphanter is greater than the value of its root node;
+Its left and right subtrees are also binary sort trees
+
+Characteristics:
+1. Easy sorting
+2. Easy to find
+3. easy to insert and delete
+
+
 ## [FindLargestSubArray](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/009-FindLargestSubArray)
 Find the largest sub array in a array:
 
@@ -91,7 +112,7 @@ Question: Design a max stack that supports push, pop, peek, peekMax and popMax.
 
 ## [Unique Morse Code Words](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/012-UniqueMorseCodeWords)
 
-International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows: "a" maps to ".-", "b" maps to "-...", "c" maps to "-.-.", and so on.
+Question: International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows: "a" maps to ".-", "b" maps to "-...", "c" maps to "-.-.", and so on.
 
 For convenience, the full table for the 26 letters of the English alphabet is given below:
 [".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",
@@ -121,7 +142,7 @@ Note:
 
 ## [UniqueEmailAddresses](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/013-UniqueEmailAddresses)
 
-Every email consists of a local name and a domain name, separated by the @ sign. For example, in alice@leetcode.com, alice is the local name, and leetcode.com is the domain name. Besides lowercase letters, these emails may contain '.'s or '+'s.
+Question: Every email consists of a local name and a domain name, separated by the @ sign. For example, in alice@leetcode.com, alice is the local name, and leetcode.com is the domain name. Besides lowercase letters, these emails may contain '.'s or '+'s.
 
 If you add periods ('.') between some characters in the local name part of an email address, mail sent there will be forwarded to the same address without dots in the local name.   For example, "alice.z@leetcode.com" and "alicez@leetcode.com" forward to the same email address.  (Note that this rule does not apply for domain names.)
 
@@ -142,3 +163,34 @@ Note:
 * 1 <= emails[i].length <= 100
 * 1 <= emails.length <= 100
 * Each emails[i] contains exactly one '@' character.
+
+
+## [HammingDistance](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/015-HammingDistance)
+Question: The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
+Given two integers x and y, calculate the Hamming distance.
+
+Note:
+* 0 ≤ x, y < 231.
+
+Example:
+* Input: x = 1, y = 4
+* Output: 2
+* Explanation:
+* 1   (0 0 0 1)
+* 4   (0 1 0 0)
+* ↑   ↑
+
+The above arrows point to positions where the corresponding bits are different.
+
+
+## [RangeSumOfBST](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/016-RangeSumOfBST)
+Given the root node of a binary search tree, return the sum of values of all nodes with value between L and R (inclusive).
+The binary search tree is guaranteed to have unique values.
+
+Example 1:
+* Input: root = [10,5,15,3,7,null,18], L = 7, R = 15
+* Output: 32
+
+Example 2:
+* Input: root = [10,5,15,3,7,13,18,1,null,6], L = 6, R = 10
+* Output: 23
