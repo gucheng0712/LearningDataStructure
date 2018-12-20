@@ -64,6 +64,16 @@ Time Complexity:
 * Best: O (nlogn)
 * Worst: O (nlogn)
 
+## [HeapSort]()
+Heap-Sort is a kind of Selection sort method. It is not Stabled. Mainly used for forming and processing priority queues.
+
+The Principle of the Heap Sort is think the sorting array as the sequential storage structure of a complete binary tree, and the internal relationship between parent nodes and child nodes in the complete binary tree is utilized to select the record with the largest or smallest keyword in the current disordered area.
+
+Time Complexity:
+* Average:O(nlog2n)
+* Best: O(nlog2n)
+* Wirst O(nlog2n)
+
 
 ## [BinaryTree](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/014-BinaryTree)
 A Binary Tree is a finite set of n nodes, which can be an empty set (called an empty binary tree), or a root node and a binary tree of two disjoint nodes, called the left subtree of the root node and the right subtree respectively.
