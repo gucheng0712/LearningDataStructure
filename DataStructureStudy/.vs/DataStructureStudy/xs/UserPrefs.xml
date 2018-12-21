@@ -7,8 +7,8 @@
     <Files>
       <File FileName="017-BinaryHeap/Program.cs" Line="7" Column="24" />
       <File FileName="017-BinaryHeap/HeapSort-Array.cs" Line="28" Column="9" />
-      <File FileName="018-MaxIncreaseToKeepCitySkyline/Program.cs" Line="18" Column="53" />
-      <File FileName="018-MaxIncreaseToKeepCitySkyline/MaxIncreaseKeepCitySkyline.cs" Line="33" Column="10" />
+      <File FileName="018-MaxIncreaseToKeepCitySkyline/Program.cs" Line="31" Column="35" />
+      <File FileName="018-MaxIncreaseToKeepCitySkyline/MaxIncreaseKeepCitySkyline.cs" Line="22" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.011-MaxStack PreferredExecutionTarget="MonoDevelop.Default" />
