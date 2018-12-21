@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016-RangeSumOfBST", "016-Ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017-BinaryHeap", "017-BinaryHeap\017-BinaryHeap.csproj", "{5864486A-96BB-4E49-A247-9950E926DE6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018-MaxIncreaseToKeepCitySkyline", "018-MaxIncreaseToKeepCitySkyline\018-MaxIncreaseToKeepCitySkyline.csproj", "{904B0464-DBAA-4AE5-AE9F-E8984D177A1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -109,5 +111,9 @@ Global
 		{5864486A-96BB-4E49-A247-9950E926DE6F}.Debug|x86.Build.0 = Debug|x86
 		{5864486A-96BB-4E49-A247-9950E926DE6F}.Release|x86.ActiveCfg = Release|x86
 		{5864486A-96BB-4E49-A247-9950E926DE6F}.Release|x86.Build.0 = Release|x86
+		{904B0464-DBAA-4AE5-AE9F-E8984D177A1F}.Debug|x86.ActiveCfg = Debug|x86
+		{904B0464-DBAA-4AE5-AE9F-E8984D177A1F}.Debug|x86.Build.0 = Debug|x86
+		{904B0464-DBAA-4AE5-AE9F-E8984D177A1F}.Release|x86.ActiveCfg = Release|x86
+		{904B0464-DBAA-4AE5-AE9F-E8984D177A1F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

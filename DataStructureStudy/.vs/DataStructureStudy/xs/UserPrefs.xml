@@ -1,18 +1,21 @@
-﻿<Properties StartupConfiguration="{5864486A-96BB-4E49-A247-9950E926DE6F}|Default">
+﻿<Properties StartupConfiguration="{904B0464-DBAA-4AE5-AE9F-E8984D177A1F}|Default">
   <MonoDevelop.Ide.ItemProperties.004-String PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.005-InsertSort FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.012-UniqueMorseCodeWords FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.009-FindLargestSubArray PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="017-BinaryHeap/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="018-MaxIncreaseToKeepCitySkyline/Program.cs">
     <Files>
-      <File FileName="017-BinaryHeap/Program.cs" Line="9" Column="47" />
-      <File FileName="017-BinaryHeap/HeapSort-Array.cs" Line="1" Column="1" />
+      <File FileName="017-BinaryHeap/Program.cs" Line="7" Column="24" />
+      <File FileName="017-BinaryHeap/HeapSort-Array.cs" Line="28" Column="9" />
+      <File FileName="018-MaxIncreaseToKeepCitySkyline/Program.cs" Line="18" Column="53" />
+      <File FileName="018-MaxIncreaseToKeepCitySkyline/MaxIncreaseKeepCitySkyline.cs" Line="33" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.011-MaxStack PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.014-BinaryTree PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.002-Stack PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.017-BinaryHeap FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.017-BinaryHeap PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.018-MaxIncreaseToKeepCitySkyline PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.003-Queue PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.010-EncodeAndDecode PreferredExecutionTarget="MonoDevelop.Default" />

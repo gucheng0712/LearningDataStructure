@@ -96,7 +96,7 @@ Characteristics:
 3. easy to insert and delete
 
 
-## [FindLargestSubArray](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/009-FindLargestSubArray)
+## [Find Largest SubArray](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/009-FindLargestSubArray)
 Find the largest sub array in a array:
 
 1. Violent Method
@@ -104,7 +104,7 @@ Find the largest sub array in a array:
 
 
 
-## [EncodingAndDecoding](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/010-EncodeAndDecode)
+## [Encoding and Decoding](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/010-EncodeAndDecode)
 
 Question: Design the encode and decode methods. There is no restriction on how your encode/decode algorithm should work. You just need to ensure that a string can be encoded to a a code and the code can be decoded to the original URL.
 
@@ -150,7 +150,7 @@ Note:
 
 
 
-## [UniqueEmailAddresses](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/013-UniqueEmailAddresses)
+## [Unique Email Addresses](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/013-UniqueEmailAddresses)
 
 Question: Every email consists of a local name and a domain name, separated by the @ sign. For example, in alice@leetcode.com, alice is the local name, and leetcode.com is the domain name. Besides lowercase letters, these emails may contain '.'s or '+'s.
 
@@ -175,7 +175,7 @@ Note:
 * Each emails[i] contains exactly one '@' character.
 
 
-## [HammingDistance](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/015-HammingDistance)
+## [Hamming Distance](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/015-HammingDistance)
 Question: The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
 Given two integers x and y, calculate the Hamming distance.
 
@@ -193,7 +193,7 @@ Example:
 The above arrows point to positions where the corresponding bits are different.
 
 
-## [RangeSumOfBST](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/016-RangeSumOfBST)
+## [Range Sum of Binary Sort Tree](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/016-RangeSumOfBST)
 Given the root node of a binary search tree, return the sum of values of all nodes with value between L and R (inclusive).
 The binary search tree is guaranteed to have unique values.
 
@@ -204,3 +204,34 @@ Example 1:
 Example 2:
 * Input: root = [10,5,15,3,7,13,18,1,null,6], L = 6, R = 10
 * Output: 23
+
+
+## [Max Increase to Keep City Skyline]()
+In a 2 dimensional array grid, each value grid[i][j] represents the height of a building located there. We are allowed to increase the height of any number of buildings, by any amount (the amounts can be different for different buildings). Height 0 is considered to be a building as well. 
+
+At the end, the "skyline" when viewed from all four directions of the grid, i.e. top, bottom, left, and right, must be the same as the skyline of the original grid. A city's skyline is the outer contour of the rectangles formed by all the buildings when viewed from a distance. See the following example.
+
+What is the maximum total sum that the height of the buildings can be increased?
+
+Example:
+```
+Input: grid = [[3,0,8,4],[2,4,5,7],[9,2,6,3],[0,3,1,0]]
+Output: 35
+Explanation: 
+The grid is:
+[ [3, 0, 8, 4], 
+[2, 4, 5, 7],
+[9, 2, 6, 3],
+[0, 3, 1, 0] ]
+
+The skyline viewed from top or bottom is: [9, 4, 8, 7]
+The skyline viewed from left or right is: [8, 7, 9, 3]
+
+The grid after increasing the height of buildings without affecting skylines is:
+
+gridNew = [ [8, 4, 8, 7],
+[7, 4, 7, 7],
+[9, 4, 8, 7],
+[3, 3, 3, 3] ]
+```
+
