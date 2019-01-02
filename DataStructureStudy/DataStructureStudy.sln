@@ -37,6 +37,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017-BinaryHeap", "017-Binar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018-MaxIncreaseToKeepCitySkyline", "018-MaxIncreaseToKeepCitySkyline\018-MaxIncreaseToKeepCitySkyline.csproj", "{904B0464-DBAA-4AE5-AE9F-E8984D177A1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019-FindPermutationLocation", "FindPermutationLocation\019-FindPermutationLocation.csproj", "{ACC13D1D-E5E5-4EC3-AE95-77BB6DB20FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020-DynamicProgramming", "020-DynamicProgramming\020-DynamicProgramming.csproj", "{8E6DB216-A813-41AD-AB74-13C718058232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021-RevealcardsInIncreasingOrder", "021-RevealcardsInIncreasingOrder\021-RevealcardsInIncreasingOrder.csproj", "{3340A748-A0D8-46A9-AE48-F6034FC40E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022-EventChoiceProblem", "022-EventChoiceProblem\022-EventChoiceProblem.csproj", "{CB47C93A-0859-4349-8DA7-60C714B27ADC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -115,5 +123,21 @@ Global
 		{904B0464-DBAA-4AE5-AE9F-E8984D177A1F}.Debug|x86.Build.0 = Debug|x86
 		{904B0464-DBAA-4AE5-AE9F-E8984D177A1F}.Release|x86.ActiveCfg = Release|x86
 		{904B0464-DBAA-4AE5-AE9F-E8984D177A1F}.Release|x86.Build.0 = Release|x86
+		{ACC13D1D-E5E5-4EC3-AE95-77BB6DB20FC3}.Debug|x86.ActiveCfg = Debug|x86
+		{ACC13D1D-E5E5-4EC3-AE95-77BB6DB20FC3}.Debug|x86.Build.0 = Debug|x86
+		{ACC13D1D-E5E5-4EC3-AE95-77BB6DB20FC3}.Release|x86.ActiveCfg = Release|x86
+		{ACC13D1D-E5E5-4EC3-AE95-77BB6DB20FC3}.Release|x86.Build.0 = Release|x86
+		{8E6DB216-A813-41AD-AB74-13C718058232}.Debug|x86.ActiveCfg = Debug|x86
+		{8E6DB216-A813-41AD-AB74-13C718058232}.Debug|x86.Build.0 = Debug|x86
+		{8E6DB216-A813-41AD-AB74-13C718058232}.Release|x86.ActiveCfg = Release|x86
+		{8E6DB216-A813-41AD-AB74-13C718058232}.Release|x86.Build.0 = Release|x86
+		{3340A748-A0D8-46A9-AE48-F6034FC40E9C}.Debug|x86.ActiveCfg = Debug|x86
+		{3340A748-A0D8-46A9-AE48-F6034FC40E9C}.Debug|x86.Build.0 = Debug|x86
+		{3340A748-A0D8-46A9-AE48-F6034FC40E9C}.Release|x86.ActiveCfg = Release|x86
+		{3340A748-A0D8-46A9-AE48-F6034FC40E9C}.Release|x86.Build.0 = Release|x86
+		{CB47C93A-0859-4349-8DA7-60C714B27ADC}.Debug|x86.ActiveCfg = Debug|x86
+		{CB47C93A-0859-4349-8DA7-60C714B27ADC}.Debug|x86.Build.0 = Debug|x86
+		{CB47C93A-0859-4349-8DA7-60C714B27ADC}.Release|x86.ActiveCfg = Release|x86
+		{CB47C93A-0859-4349-8DA7-60C714B27ADC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

@@ -108,7 +108,7 @@ Characteristics:
 ## [Find Largest SubArray](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/009-FindLargestSubArray)
 Find the largest sub array in a array:
 
-1. Violent Method
+1. Brute Force Method
 2. Divide & Conquer Method
 
 

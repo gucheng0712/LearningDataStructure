@@ -17,6 +17,7 @@ namespace UniqueMorseCodeWords
                          "---",".--.","--.-",".-.","...","-","..-",
                          "...-",".--","-..-","-.--","--.."
                              };
+            string str = "sagavagaf";
 
             HashSet<string> seen = new HashSet<string>();
             foreach (string word in words)
@@ -28,8 +29,8 @@ namespace UniqueMorseCodeWords
                 }
                 seen.Add(code.ToString());
             }
-              // Because HashSet will not add the duplicate element into the list,
-              // so the count is the count of morse words
+            // Because HashSet will not add the duplicate element into the list,
+            // so the count is the count of morse words
             return seen.Count;
         }
     }

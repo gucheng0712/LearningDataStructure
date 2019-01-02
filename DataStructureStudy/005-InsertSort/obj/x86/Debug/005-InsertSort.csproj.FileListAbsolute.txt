@@ -1,0 +1,6 @@
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/005-InsertSort/bin/Debug/005-InsertSort.exe
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/005-InsertSort/bin/Debug/005-InsertSort.pdb
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/005-InsertSort/obj/x86/Debug/005-InsertSort.csprojAssemblyReference.cache
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/005-InsertSort/obj/x86/Debug/005-InsertSort.csproj.CoreCompileInputs.cache
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/005-InsertSort/obj/x86/Debug/005-InsertSort.exe
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/005-InsertSort/obj/x86/Debug/005-InsertSort.pdb

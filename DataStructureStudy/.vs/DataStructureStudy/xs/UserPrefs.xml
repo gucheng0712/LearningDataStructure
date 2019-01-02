@@ -1,19 +1,23 @@
-﻿<Properties StartupConfiguration="{904B0464-DBAA-4AE5-AE9F-E8984D177A1F}|Default">
+﻿<Properties StartupConfiguration="{8E6DB216-A813-41AD-AB74-13C718058232}|Default">
+  <MonoDevelop.Ide.ItemProperties.020-DynamicProgramming PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.004-String PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.005-InsertSort FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.005-InsertSort PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.012-UniqueMorseCodeWords FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.009-FindLargestSubArray PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="018-MaxIncreaseToKeepCitySkyline/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.021-RevealcardsInIncreasingOrder FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="022-EventChoiceProblem/Program.cs">
     <Files>
-      <File FileName="017-BinaryHeap/Program.cs" Line="7" Column="24" />
-      <File FileName="017-BinaryHeap/HeapSort-Array.cs" Line="28" Column="9" />
-      <File FileName="018-MaxIncreaseToKeepCitySkyline/Program.cs" Line="31" Column="35" />
-      <File FileName="018-MaxIncreaseToKeepCitySkyline/MaxIncreaseKeepCitySkyline.cs" Line="22" Column="13" />
+      <File FileName="020-DynamicProgramming/Program.cs" Line="38" Column="34" />
+      <File FileName="021-RevealcardsInIncreasingOrder/Program.cs" Line="57" Column="14" />
+      <File FileName="012-UniqueMorseCodeWords/UniqueMorseCodeWords.cs" Line="21" Column="13" />
+      <File FileName="014-BinaryTree/LinkedBinarySortTree.cs" Line="78" Column="9" />
+      <File FileName="022-EventChoiceProblem/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.011-MaxStack PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.014-BinaryTree PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.002-Stack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.019-FindPermutationLocation FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.017-BinaryHeap PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.018-MaxIncreaseToKeepCitySkyline PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
@@ -23,6 +27,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.013-UniqueEmailAddresses PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.016-RangeSumOfBST PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.022-EventChoiceProblem FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
