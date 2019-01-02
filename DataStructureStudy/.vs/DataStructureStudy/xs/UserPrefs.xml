@@ -1,17 +1,19 @@
-﻿<Properties StartupConfiguration="{8E6DB216-A813-41AD-AB74-13C718058232}|Default">
+﻿<Properties StartupConfiguration="{CB47C93A-0859-4349-8DA7-60C714B27ADC}|Default">
   <MonoDevelop.Ide.ItemProperties.020-DynamicProgramming PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.004-String PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.005-InsertSort PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.012-UniqueMorseCodeWords FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.009-FindLargestSubArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.021-RevealcardsInIncreasingOrder FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="022-EventChoiceProblem/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="022-EventChoiceProblem/DymanicProblemMethod.cs">
     <Files>
       <File FileName="020-DynamicProgramming/Program.cs" Line="38" Column="34" />
       <File FileName="021-RevealcardsInIncreasingOrder/Program.cs" Line="57" Column="14" />
       <File FileName="012-UniqueMorseCodeWords/UniqueMorseCodeWords.cs" Line="21" Column="13" />
       <File FileName="014-BinaryTree/LinkedBinarySortTree.cs" Line="78" Column="9" />
-      <File FileName="022-EventChoiceProblem/Program.cs" Line="1" Column="1" />
+      <File FileName="022-EventChoiceProblem/Program.cs" Line="29" Column="59" />
+      <File FileName="022-EventChoiceProblem/DymanicProblemMethod.cs" Line="4" Column="38" />
+      <File FileName="022-EventChoiceProblem/GreedyMethod.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.011-MaxStack PreferredExecutionTarget="MonoDevelop.Default" />
@@ -27,7 +29,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.013-UniqueEmailAddresses PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.016-RangeSumOfBST PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.022-EventChoiceProblem FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.022-EventChoiceProblem PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
