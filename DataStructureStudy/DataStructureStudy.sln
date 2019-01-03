@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021-RevealcardsInIncreasing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022-EventChoiceProblem", "022-EventChoiceProblem\022-EventChoiceProblem.csproj", "{CB47C93A-0859-4349-8DA7-60C714B27ADC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023-ChangeProblem", "023-ChangeProblem\023-ChangeProblem.csproj", "{68450A11-418C-445F-B6A7-1C484FA6DA5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -139,5 +141,9 @@ Global
 		{CB47C93A-0859-4349-8DA7-60C714B27ADC}.Debug|x86.Build.0 = Debug|x86
 		{CB47C93A-0859-4349-8DA7-60C714B27ADC}.Release|x86.ActiveCfg = Release|x86
 		{CB47C93A-0859-4349-8DA7-60C714B27ADC}.Release|x86.Build.0 = Release|x86
+		{68450A11-418C-445F-B6A7-1C484FA6DA5B}.Debug|x86.ActiveCfg = Debug|x86
+		{68450A11-418C-445F-B6A7-1C484FA6DA5B}.Debug|x86.Build.0 = Debug|x86
+		{68450A11-418C-445F-B6A7-1C484FA6DA5B}.Release|x86.ActiveCfg = Release|x86
+		{68450A11-418C-445F-B6A7-1C484FA6DA5B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

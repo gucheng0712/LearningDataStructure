@@ -21,7 +21,7 @@ namespace EventChoiceProblem
 
             List<int> l = new GreedyMethod().MaxCompatiableActivity_Recursion(1, 11, 0, 24);
 
-            new GreedyMethod().MaxCompatiableActivity(11, 0, 24);
+            new GreedyMethod().MaxCompatiableActivity_Iteration(11, 0, 24);
 
         }
 

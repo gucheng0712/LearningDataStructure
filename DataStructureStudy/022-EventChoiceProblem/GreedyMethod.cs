@@ -13,7 +13,7 @@ namespace EventChoiceProblem
             {
                 return new List<int>();
             }
-            //找到结束时间最早的活动
+
             int tempNum = 0;
             for (int num = startActivityNum; num <= endActivityNum; num++)
             {
@@ -30,7 +30,7 @@ namespace EventChoiceProblem
             return list;
         }
 
-        public List<int> MaxCompatiableActivity(int n, int startTime, int endTime)
+        public List<int> MaxCompatiableActivity_Iteration(int n, int startTime, int endTime)
         {
             List<int> list = new List<int>();
 
