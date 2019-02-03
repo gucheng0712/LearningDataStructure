@@ -1,0 +1,7 @@
+D:\Users\Suzuka\Documents\GitHub\LearningDataStructure\DataStructureStudy\ThreeInOne-MultiStack\bin\Debug\ThreeInOne-MultiStack.exe.config
+D:\Users\Suzuka\Documents\GitHub\LearningDataStructure\DataStructureStudy\ThreeInOne-MultiStack\bin\Debug\ThreeInOne-MultiStack.exe
+D:\Users\Suzuka\Documents\GitHub\LearningDataStructure\DataStructureStudy\ThreeInOne-MultiStack\bin\Debug\ThreeInOne-MultiStack.pdb
+D:\Users\Suzuka\Documents\GitHub\LearningDataStructure\DataStructureStudy\ThreeInOne-MultiStack\obj\Debug\ThreeInOne-MultiStack.csprojAssemblyReference.cache
+D:\Users\Suzuka\Documents\GitHub\LearningDataStructure\DataStructureStudy\ThreeInOne-MultiStack\obj\Debug\ThreeInOne-MultiStack.csproj.CoreCompileInputs.cache
+D:\Users\Suzuka\Documents\GitHub\LearningDataStructure\DataStructureStudy\ThreeInOne-MultiStack\obj\Debug\ThreeInOne-MultiStack.exe
+D:\Users\Suzuka\Documents\GitHub\LearningDataStructure\DataStructureStudy\ThreeInOne-MultiStack\obj\Debug\ThreeInOne-MultiStack.pdb
