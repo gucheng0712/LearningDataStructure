@@ -1,0 +1,6 @@
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/023-ChangeProblem/bin/Debug/023-ChangeProblem.exe
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/023-ChangeProblem/bin/Debug/023-ChangeProblem.pdb
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/023-ChangeProblem/obj/x86/Debug/ChangeProblem.csprojAssemblyReference.cache
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/023-ChangeProblem/obj/x86/Debug/ChangeProblem.csproj.CoreCompileInputs.cache
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/023-ChangeProblem/obj/x86/Debug/023-ChangeProblem.exe
+/Users/suzuka/Documents/GitHub/LearningDataStructure/DataStructureStudy/023-ChangeProblem/obj/x86/Debug/023-ChangeProblem.pdb
