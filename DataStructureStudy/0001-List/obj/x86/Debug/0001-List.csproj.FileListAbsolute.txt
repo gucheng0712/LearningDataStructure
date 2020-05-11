@@ -1,0 +1,6 @@
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0001-List\bin\Debug\SataStructureStudy.exe.config
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0001-List\bin\Debug\SataStructureStudy.exe
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0001-List\bin\Debug\SataStructureStudy.pdb
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0001-List\obj\x86\Debug\0001-List.csprojAssemblyReference.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0001-List\obj\x86\Debug\SataStructureStudy.exe
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0001-List\obj\x86\Debug\SataStructureStudy.pdb

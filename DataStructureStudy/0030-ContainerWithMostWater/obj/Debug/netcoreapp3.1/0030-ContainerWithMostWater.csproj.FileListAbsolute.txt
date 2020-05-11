@@ -1,0 +1,12 @@
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0030-ContainerWithMostWater\bin\Debug\netcoreapp3.1\0030-ContainerWithMostWater.exe
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0030-ContainerWithMostWater\bin\Debug\netcoreapp3.1\0030-ContainerWithMostWater.deps.json
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0030-ContainerWithMostWater\bin\Debug\netcoreapp3.1\0030-ContainerWithMostWater.runtimeconfig.json
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0030-ContainerWithMostWater\bin\Debug\netcoreapp3.1\0030-ContainerWithMostWater.runtimeconfig.dev.json
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0030-ContainerWithMostWater\bin\Debug\netcoreapp3.1\0030-ContainerWithMostWater.dll
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0030-ContainerWithMostWater\bin\Debug\netcoreapp3.1\0030-ContainerWithMostWater.pdb
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0030-ContainerWithMostWater\obj\Debug\netcoreapp3.1\0030-ContainerWithMostWater.csproj.CoreCompileInputs.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0030-ContainerWithMostWater\obj\Debug\netcoreapp3.1\0030-ContainerWithMostWater.AssemblyInfoInputs.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0030-ContainerWithMostWater\obj\Debug\netcoreapp3.1\0030-ContainerWithMostWater.AssemblyInfo.cs
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0030-ContainerWithMostWater\obj\Debug\netcoreapp3.1\0030-ContainerWithMostWater.dll
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0030-ContainerWithMostWater\obj\Debug\netcoreapp3.1\0030-ContainerWithMostWater.pdb
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0030-ContainerWithMostWater\obj\Debug\netcoreapp3.1\0030-ContainerWithMostWater.genruntimeconfig.cache

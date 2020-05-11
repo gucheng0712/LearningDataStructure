@@ -1,0 +1,11 @@
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0029-MoveZeroes\bin\Debug\netcoreapp3.1\0029-MoveZeroes.exe
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0029-MoveZeroes\bin\Debug\netcoreapp3.1\0029-MoveZeroes.deps.json
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0029-MoveZeroes\bin\Debug\netcoreapp3.1\0029-MoveZeroes.runtimeconfig.json
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0029-MoveZeroes\bin\Debug\netcoreapp3.1\0029-MoveZeroes.runtimeconfig.dev.json
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0029-MoveZeroes\bin\Debug\netcoreapp3.1\0029-MoveZeroes.dll
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0029-MoveZeroes\bin\Debug\netcoreapp3.1\0029-MoveZeroes.pdb
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0029-MoveZeroes\obj\Debug\netcoreapp3.1\0029-MoveZeroes.csprojAssemblyReference.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0029-MoveZeroes\obj\Debug\netcoreapp3.1\0029-MoveZeroes.AssemblyInfoInputs.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0029-MoveZeroes\obj\Debug\netcoreapp3.1\0029-MoveZeroes.AssemblyInfo.cs
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0029-MoveZeroes\obj\Debug\netcoreapp3.1\0029-MoveZeroes.dll
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0029-MoveZeroes\obj\Debug\netcoreapp3.1\0029-MoveZeroes.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "0031-ClimbingStairs/1.0.0": {
+        "runtime": {
+          "0031-ClimbingStairs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0031-ClimbingStairs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
