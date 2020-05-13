@@ -18,18 +18,19 @@ namespace _0030_ContainerWithMostWater
 
 
         // O(n), 左右边界 i 和j, 向中间收敛: 双指针法
-        static int MaxAreaOn(params int[] height)
+        static int MaxAreaOn(params int[] h)
         {
             int max = 0;
-            for (int i = 0, j = height.Length - 1; i < j;)
+            int i = 0;
+            int j = h.Length - 1;
+            while (i <= j)
             {
-                int minHeight = height[i] < height[j] ? height[i++] : height[j--];
+                int minHeight = h[i] < h[j] ? h[i++] : h[j--];
                 int area = (j - i + 1) * minHeight;
                 max = Math.Max(max, area);
             }
             return max;
         }
-
 
         // O(n^2) 蛮力求解法
         static int MaxAreaOn2(params int[] height)

@@ -331,3 +331,79 @@ Explanation: There are three ways to climb to the top.
 2. 1 step + 2 steps
 3. 2 steps + 1 step
 ```
+
+## [32. 3 Sum](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/0032-3Sum)
+
+Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+
+Note:
+
+The solution set must not contain duplicate triplets.
+
+Example:
+```
+Given array nums = [-1, 0, 1, 2, -1, -4],
+
+A solution set is:
+[
+  [-1, 0, 1],
+  [-1, -1, 2]
+]
+```
+
+## [33. Valid Parentheses](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/0033-ValidParentheses)
+
+Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+An input string is valid if:
+
+Open brackets must be closed by the same type of brackets.
+Open brackets must be closed in the correct order.
+Note that an empty string is also considered valid.
+
+Example 1:
+```
+Input: "()"
+Output: true
+```
+
+Example 2:
+```
+Input: "()[]{}"
+Output: true
+```
+
+Example 3:
+```
+Input: "(]"
+Output: false
+```
+
+Example 4:
+```
+Input: "([)]"
+Output: false
+```
+
+Example 5:
+```
+Input: "{[]}"
+Output: true
+```
+
+## [34. Largest Rectangle In Histogram](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/0034-LargestRectangleInHistogram)
+
+Given n non-negative integers representing the histogram's bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.
+
+![](https://assets.leetcode.com/uploads/2018/10/12/histogram.png)
+
+Above is a histogram where width of each bar is 1, given height = [2,1,5,6,2,3].
+
+![](https://assets.leetcode.com/uploads/2018/10/12/histogram_area.png)
+
+The largest rectangle is shown in the shaded area, which has area = 10 unit.
+
+Example:
+
+Input: [2,1,5,6,2,3]
+Output: 10

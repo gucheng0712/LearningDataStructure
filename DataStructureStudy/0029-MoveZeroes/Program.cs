@@ -16,17 +16,17 @@ namespace _0029_MoveZeroes
 
         static int[] MoveZeros(params int[] nums)
         {
-            int nonZeroIndex = 0;
+            int k = 0;
             for (int i = 0; i < nums.Length; i++)
             {
                 if (nums[i] != 0)
                 {
-                    nums[nonZeroIndex] = nums[i];
-                    if (i != nonZeroIndex)
+                    nums[k] = nums[i];
+                    if (i != k)
                     {
                         nums[i] = 0;
                     }
-                    nonZeroIndex++;
+                    k++;
                 }
             }
 

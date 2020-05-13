@@ -1,0 +1,7 @@
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\00011-MaxStack\bin\Debug\011-MaxStack.exe.config
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\00011-MaxStack\bin\Debug\011-MaxStack.exe
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\00011-MaxStack\bin\Debug\011-MaxStack.pdb
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\00011-MaxStack\obj\x86\Debug\0011-MaxStack.csprojAssemblyReference.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\00011-MaxStack\obj\x86\Debug\0011-MaxStack.csproj.CoreCompileInputs.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\00011-MaxStack\obj\x86\Debug\011-MaxStack.exe
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\00011-MaxStack\obj\x86\Debug\011-MaxStack.pdb

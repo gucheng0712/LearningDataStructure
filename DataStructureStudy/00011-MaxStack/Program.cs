@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace MaxStack
 {
@@ -18,6 +19,7 @@ namespace MaxStack
             Console.WriteLine("Peek the Max Stack After Pop the Max: " + stack.PeekMax());
             stack.Pop();
             Console.WriteLine("Peek Stack After Pop: " + stack.Peek());
+            Console.ReadKey();
         }
 
     }

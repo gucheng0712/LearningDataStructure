@@ -1,0 +1,13 @@
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\bin\Debug\netcoreapp3.1\0033-ValidParentheses.exe
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\bin\Debug\netcoreapp3.1\0033-ValidParentheses.deps.json
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\bin\Debug\netcoreapp3.1\0033-ValidParentheses.runtimeconfig.json
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\bin\Debug\netcoreapp3.1\0033-ValidParentheses.runtimeconfig.dev.json
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\bin\Debug\netcoreapp3.1\0033-ValidParentheses.dll
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\bin\Debug\netcoreapp3.1\0033-ValidParentheses.pdb
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\obj\Debug\netcoreapp3.1\0033-ValidParentheses.csprojAssemblyReference.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\obj\Debug\netcoreapp3.1\0033-ValidParentheses.csproj.CoreCompileInputs.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\obj\Debug\netcoreapp3.1\0033-ValidParentheses.AssemblyInfoInputs.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\obj\Debug\netcoreapp3.1\0033-ValidParentheses.AssemblyInfo.cs
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\obj\Debug\netcoreapp3.1\0033-ValidParentheses.dll
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\obj\Debug\netcoreapp3.1\0033-ValidParentheses.pdb
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0033-ValidParentheses\obj\Debug\netcoreapp3.1\0033-ValidParentheses.genruntimeconfig.cache

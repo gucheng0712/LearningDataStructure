@@ -116,8 +116,5 @@ namespace LRU_Cache
             prev.next = next;
             next.prev = prev;
         }
-
-
     }
-
 }
