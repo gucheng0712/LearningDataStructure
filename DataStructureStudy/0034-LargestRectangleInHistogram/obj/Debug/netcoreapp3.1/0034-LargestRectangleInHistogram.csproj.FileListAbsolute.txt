@@ -1,0 +1,13 @@
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\bin\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.exe
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\bin\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.deps.json
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\bin\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.runtimeconfig.json
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\bin\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.runtimeconfig.dev.json
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\bin\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.dll
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\bin\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.pdb
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\obj\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.csprojAssemblyReference.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\obj\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.csproj.CoreCompileInputs.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\obj\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.AssemblyInfoInputs.cache
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\obj\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.AssemblyInfo.cs
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\obj\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.dll
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\obj\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.pdb
+D:\Users\guche\Documents\GitHub\LearningDataStructure\DataStructureStudy\0034-LargestRectangleInHistogram\obj\Debug\netcoreapp3.1\0034-LargestRectangleInHistogram.genruntimeconfig.cache
