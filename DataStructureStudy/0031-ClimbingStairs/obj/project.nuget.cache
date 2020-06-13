@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oBvW4HQhrH5+ku5rBJAyNYXAA9S3GcgKLYag9XH6i+pS22sgAk/iPJI681Z7H1HOeqQvnNliLW1t31dTW3/UnQ==",
+  "dgSpecHash": "ApqQQVgYiZpg+SDdF5Dn7weWGmWOqEOMnaY2BwDy3+q0QqXaSYYlcfH8guAMT7zM2wayjn1ZiIMMaKoSnJo9GA==",
   "success": true,
   "projectFilePath": "D:\\Users\\guche\\Documents\\GitHub\\LearningDataStructure\\DataStructureStudy\\0031-ClimbingStairs\\0031-ClimbingStairs.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guche\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

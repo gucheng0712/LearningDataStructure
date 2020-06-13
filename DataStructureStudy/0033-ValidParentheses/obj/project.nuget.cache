@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DkYNPSkQv7hs6zig7HUa8nmeoAHAUlzHmUf/IajAvfZjFr5oEhLFu4H4H8Y3PoWZP6GAoKPnAxf394LUuTxltg==",
+  "dgSpecHash": "Tmtn27mm8vJyeoG2mgfnMSIF4T8g+wnc/PAchRc5zi+aF6EL+bPq4rt3h59RAk3/GSqn58HllmuYHZJjG5PuvQ==",
   "success": true,
   "projectFilePath": "D:\\Users\\guche\\Documents\\GitHub\\LearningDataStructure\\DataStructureStudy\\0033-ValidParentheses\\0033-ValidParentheses.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guche\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

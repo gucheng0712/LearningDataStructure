@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vf8r8YNeE1AAbjBDXVGlEp4nU11+zoClHKGAILjnqGhFiWVzkHbgv/NyxfQtX9N9zNXaIj98Oc4Y0qIE8VXCQQ==",
+  "dgSpecHash": "7YJ94S5yxLQXV55TG0qcUCMqbJKdIWOlqT/WFxYH0Alu7t+cCyl3uVGb0jg5lJ+5cPEX1AhNM5BUSlTS0QTutA==",
   "success": true,
   "projectFilePath": "D:\\Users\\guche\\Documents\\GitHub\\LearningDataStructure\\DataStructureStudy\\0032-3Sum\\0032-3Sum.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guche\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

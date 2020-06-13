@@ -7,7 +7,7 @@ namespace _0032_3Sum
     {
         static void Main(string[] args)
         {
-            var test = SumOfThree(-1, 0, 1, 2, -1, -4);
+            var test = ThreeSum(-1, 0, 1, 2, -1, -4);
             foreach (var list in test)
             {
                 foreach (var e in list)
@@ -59,6 +59,43 @@ namespace _0032_3Sum
                     }
                 }
             }
+            return res;
+        }
+
+        public static List<List<int>> SumOfThree(params int[] nums)
+        {
+            List<List<int>> res = new List<List<int>>();
+            for (int k = 0; k < nums.Length - 2; k++)
+            {
+                int i = k + 1;
+                int j = nums.Length - 1;
+                int sum = 0 - nums[k];
+                while (i < j)
+                {
+                    if (nums[i] + nums[j] == sum)
+                    {
+                        res.Add(new List<int>(new int[] { nums[k], nums[i], nums[j] }));
+
+                        while (nums[i] == nums[i + 1])
+                        {
+                            i++;
+                        }
+                        while (nums[j] == nums[j - 1])
+                        {
+                            j--;
+                        }
+                    }
+                    else if (nums[i] + nums[j] < sum)
+                    {
+                        i++;
+                    }
+                    else
+                    {
+                        j--;
+                    }
+                }
+            }
+
             return res;
         }
 

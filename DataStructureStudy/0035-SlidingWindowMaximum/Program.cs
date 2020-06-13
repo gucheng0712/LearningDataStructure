@@ -21,21 +21,16 @@ namespace SlidingWindowMaximum
         /// <returns></returns>
         static int[] MaxSlidingWindow(int[] nums, int k)
         {
-            int max;
             int[] res = new int[nums.Length - k + 1];
 
             //遍历所有"窗口"
             for (int i = 0; i <= nums.Length - k; i++)
             {
-                max = nums[i]; // 初始化最大值
-
+                int max = nums[i]; // 初始化第一个element为目前最大值
                 // 通过遍历来比较 " 窗口" 里面的数的大小
                 for (int j = 1; j < k; j++)
                 {
-                    if (nums[i + j] > max)
-                    {
-                        max = nums[i + j];
-                    }
+                    max = Math.Max(max, nums[i + j]);
                 }
                 // 把最大的数添加到输出数组里
                 res[i] = max;

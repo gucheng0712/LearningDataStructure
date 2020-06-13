@@ -1,7 +1,4 @@
-# LearningDataStructure
 
-## [1. List](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/0001-List)
-The Structure of Sequence List and Linked List
 
 ## [2. Stack](https://github.com/gucheng0712/LearningDataStructure/tree/master/DataStructureStudy/0002-Stack)
 The Structure of Sequence Stack and Linked Stack

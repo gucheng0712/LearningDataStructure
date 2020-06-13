@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6EYs6qzr3AgVa0fQhd7zBBdWuJA9eOm7/WSVl8oxMqtS0SxUxeeXhJCM+VeculJpPT2r86NVZWSgOckvkDnhww==",
+  "dgSpecHash": "c1dlv6DS67jnc93JCeg5aL7R+gs72Ivlpe1rrmz5tF2Yx2Rh5bpBXFJM1WF5/kgSE3mgotKrp9aCmKa/UvM4IA==",
   "success": true,
   "projectFilePath": "D:\\Users\\guche\\Documents\\GitHub\\LearningDataStructure\\DataStructureStudy\\0019-LRU-Cache\\0019-LRU-Cache.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guche\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

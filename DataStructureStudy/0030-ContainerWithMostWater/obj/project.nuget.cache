@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eKQ9cNLuDflYrGwRKDp/WJNwsoGSK7irfrGSUJqRYqMkUseTPCNhn/4/bV9aZeXV9OnoAbNvUCXgj1wd+oibIA==",
+  "dgSpecHash": "sfD+VjHmXyRdlCfz0ZT2tBhnjOWWa3HVjiDkMBeXH/uwniPd5YJ2SHkKT70IYO/09pRAheOlvLuNf2+/Os2shA==",
   "success": true,
   "projectFilePath": "D:\\Users\\guche\\Documents\\GitHub\\LearningDataStructure\\DataStructureStudy\\0030-ContainerWithMostWater\\0030-ContainerWithMostWater.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guche\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

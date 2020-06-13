@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "voq74l0TZiuKCnxv0v6c2bYRFvs3mpQalxO4La2lLf9jcG76a8ohMtFxcrHNUXHmr+0k4sNPaLoIytsvyKp3hQ==",
+  "dgSpecHash": "YL3xn5eBNFUrIqQodI1R32dtxgHjzlvi92haN8i/BkJk9qizI4+zF9akBMxfrE45X/esgn5HLNGSDom1zshaZw==",
   "success": true,
   "projectFilePath": "D:\\Users\\guche\\Documents\\GitHub\\LearningDataStructure\\DataStructureStudy\\0029-MoveZeroes\\0029-MoveZeroes.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guche\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

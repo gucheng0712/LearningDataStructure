@@ -73,4 +73,5 @@ namespace MaxStack
             return max;
         }
     }
+
 }
